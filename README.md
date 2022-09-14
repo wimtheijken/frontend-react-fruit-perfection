@@ -31,3 +31,5 @@ applicatie er op dat moment uit zou moeten zien:
 3. [Actie 3](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-3/src/App.js)
 4. [Actie 4](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/tree/stap-4/src/App.js)
 5. [Eindresultaat App.js](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-5/src/App.js) en [Eindresultaat Product.js](https://github.com/hogeschoolnovi/frontend-react-fruit-perfection/blob/stap-5/src/components/Product.js)
+
+hoi
